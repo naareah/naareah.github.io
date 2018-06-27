@@ -1,0 +1,27 @@
+/* applies to whole webpage */
+ *{
+  font-size: 20px;
+  font-family: 'Galada', cursive;
+ }
+
+/* applies to only the div tag */
+div{
+  margin-top: 50px;
+  margin-left: 40px;
+}
+
+/*applies to only the div with the id "border" */
+#border {
+  border-style: dotted;
+  border-color: blue
+}
+
+#colorful {
+  font-color:
+}
+h1{
+  text-align: center;
+  color: blue;
+  background-color: pink;
+  font-size: 90pt;
+}
